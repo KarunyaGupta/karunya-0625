@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karunya-0625
 - 👀 I’m interested in Web developing and Data Science
-- 
-- 🌱 I’m currently learning C-Programming 
+- 🌱 I’m currently learning C-Programming
 - 📫 Instagram - https://www.instagram.com/ig_karunya_/?hl=en
 - Linkedin - https://www.linkedin.com/in/karunya-gupta-812913279/
 
